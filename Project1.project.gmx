@@ -13,9 +13,9 @@
     <sprite>sprites\spr_buttet</sprite>
     <sprites name="Menu">
       <sprite>sprites\spr_start_game</sprite>
+      <sprite>sprites\spr_play_again</sprite>
       <sprite>sprites\spr_game_end</sprite>
     </sprites>
-    <sprite>sprites\spr_play_again</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -32,7 +32,10 @@
       <object>objects\obj_game_over</object>
       <object>objects\obj_Play_Again</object>
     </objects>
-    <object>objects\obj_enemy_timer</object>
+    <objects name="enemy_timer">
+      <object>objects\obj_enemy_timer</object>
+      <object>objects\obj_enemy_timer2</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_Game_Menu</room>
