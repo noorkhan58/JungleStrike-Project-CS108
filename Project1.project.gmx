@@ -10,7 +10,8 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_exitDoor</sprite>
-    <sprite>sprites\spr_buttet</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_muzzle</sprite>
     <sprites name="Menu">
       <sprite>sprites\spr_start_game</sprite>
       <sprite>sprites\spr_play_again</sprite>
@@ -21,6 +22,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_wall</object>
+    <object>objects\obj_muzzle</object>
     <object>objects\obj_player</object>
     <object>objects\obj_enemy</object>
     <object>objects\obj_exitDoor</object>
