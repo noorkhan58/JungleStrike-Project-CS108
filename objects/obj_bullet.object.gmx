@@ -76,7 +76,7 @@ else {
 else if (my_bullet_direction == "up") {
     y -= my_speed;
 }
-else if (obj_player.bullet_direction == "down") {
+else if (my_bullet_direction == "down") {
     y += my_speed;
 }
 else {
