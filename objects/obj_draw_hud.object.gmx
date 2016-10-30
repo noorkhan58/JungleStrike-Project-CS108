@@ -25,11 +25,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>40</string>
+            <string>60</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>40</string>
+            <string>55</string>
           </argument>
           <argument>
             <kind>1</kind>
@@ -53,11 +53,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>200</string>
+            <string>180</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>40</string>
+            <string>55</string>
           </argument>
           <argument>
             <kind>1</kind>

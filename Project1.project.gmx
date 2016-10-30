@@ -20,6 +20,7 @@
       <sprite>sprites\spr_play_again</sprite>
       <sprite>sprites\spr_game_end</sprite>
     </sprites>
+    <sprite>sprites\spr_dog</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ground</background>
@@ -44,10 +45,13 @@
       <object>objects\obj_enemy_timer</object>
       <object>objects\obj_enemy_timer2</object>
     </objects>
+    <object>objects\obj_dog</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_Game_Menu</room>
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
+    <room>rooms\room3</room>
     <room>rooms\room_game_end</room>
   </rooms>
   <help>
