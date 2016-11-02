@@ -87,7 +87,7 @@ else {
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_enemy">
+    <event eventtype="4" ename="obj_enemy_01">
       <action>
         <libid>1</libid>
         <id>701</id>

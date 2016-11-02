@@ -4,15 +4,27 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\title_music</sound>
+    <sound>sound\dog_spawn</sound>
+    <sound>sound\guard_01_death</sound>
+    <sound>sound\guard_02_death</sound>
+    <sound>sound\guard_03_death</sound>
+    <sound>sound\gun_shot</sound>
+    <sound>sound\dog_death</sound>
+    <sound>sound\room_music</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_fence</sprite>
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_player_walk</sprite>
     <sprite>sprites\spr_guard_01_walk</sprite>
+    <sprite>sprites\spr_guard_02_walk</sprite>
+    <sprite>sprites\spr_guard_03_walk</sprite>
     <sprite>sprites\spr_guard_01</sprite>
-    <sprite>sprites\spr_exitDoor</sprite>
+    <sprite>sprites\spr_exitDoor_01</sprite>
+    <sprite>sprites\spr_exitDoor_02</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_muzzle</sprite>
     <sprites name="Menu">
@@ -20,7 +32,10 @@
       <sprite>sprites\spr_play_again</sprite>
       <sprite>sprites\spr_game_end</sprite>
     </sprites>
-    <sprite>sprites\spr_dog</sprite>
+    <sprite>sprites\spr_dog_01</sprite>
+    <sprite>sprites\spr_dog_02</sprite>
+    <sprite>sprites\spr_tree_01</sprite>
+    <sprite>sprites\spr_tree_02</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ground</background>
@@ -29,13 +44,20 @@
   <objects name="objects">
     <object>objects\obj_fence</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_enemy_parent</object>
+    <object>objects\obj_tree_01</object>
+    <object>objects\obj_tree_02</object>
     <object>objects\obj_muzzle</object>
     <object>objects\obj_player</object>
-    <object>objects\obj_enemy</object>
-    <object>objects\obj_exitDoor</object>
+    <object>objects\obj_enemy_01</object>
+    <object>objects\obj_enemy_02</object>
+    <object>objects\obj_enemy_03</object>
+    <object>objects\obj_exitDoor_01</object>
+    <object>objects\obj_exitDoor_02</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_game_start_end</object>
     <object>objects\obj_draw_hud</object>
+    <object>objects\obj_dog</object>
     <objects name="Menu">
       <object>objects\obj_start_game</object>
       <object>objects\obj_game_over</object>
@@ -45,7 +67,6 @@
       <object>objects\obj_enemy_timer</object>
       <object>objects\obj_enemy_timer2</object>
     </objects>
-    <object>objects\obj_dog</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_Game_Menu</room>
