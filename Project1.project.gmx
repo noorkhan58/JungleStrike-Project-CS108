@@ -73,6 +73,7 @@
     <room>rooms\room1</room>
     <room>rooms\room2</room>
     <room>rooms\room3</room>
+    <room>rooms\room6</room>
     <room>rooms\room_game_end</room>
   </rooms>
   <help>
