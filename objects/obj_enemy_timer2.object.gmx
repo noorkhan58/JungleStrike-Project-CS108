@@ -79,11 +79,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>576</string>
+            <string>768</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>160</string>
+            <string>224</string>
           </argument>
         </arguments>
       </action>

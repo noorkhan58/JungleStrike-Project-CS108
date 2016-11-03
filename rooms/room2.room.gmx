@@ -63,7 +63,7 @@
     <instance objName="obj_fence" x="864" y="320" name="inst_B7973125" locked="0" code="" scaleX="0.666666686534882" scaleY="7.33333349227905" colour="4294967295" rotation="0"/>
     <instance objName="obj_fence" x="864" y="448" name="inst_6BDD5CAB" locked="0" code="" scaleX="0.670000016689301" scaleY="-3" colour="4294967295" rotation="0"/>
     <instance objName="obj_fence" x="544" y="256" name="inst_5F4774D7" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_fence" x="243" y="224" name="inst_DD5CB3B3" locked="0" code="" scaleX="-4.33333349227905" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fence" x="224" y="192" name="inst_DD5CB3B3" locked="0" code="" scaleX="-4.33333349227905" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
     <instance objName="obj_fence" x="128" y="384" name="inst_CB26A05A" locked="0" code="" scaleX="5.33333349227905" scaleY="1.66666662693024" colour="4294967295" rotation="0"/>
     <instance objName="obj_fence" x="241" y="608" name="inst_AB4A485D" locked="0" code="" scaleX="9.33333301544189" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fence" x="660" y="416" name="inst_D13903C2" locked="0" code="" scaleX="0.666666686534882" scaleY="5.33333349227905" colour="4294967295" rotation="0"/>
