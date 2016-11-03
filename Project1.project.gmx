@@ -39,6 +39,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\ground</background>
+    <background>background\title_screen</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
