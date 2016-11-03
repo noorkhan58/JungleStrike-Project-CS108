@@ -63,9 +63,6 @@
     <instance objName="obj_enemy_01" x="624" y="384" name="inst_6B93F2D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_draw_hud" x="192" y="144" name="inst_22101BE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_game_start_end" x="624" y="672" name="inst_B3D0761F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_timer" x="288" y="144" name="inst_2C62E947" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_timer" x="576" y="240" name="inst_8CE380D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_timer2" x="587" y="168" name="inst_DAA3236E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_player" x="96" y="672" name="inst_8407FB47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="0" name="inst_00A4EBCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="48" name="inst_0BB76950" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

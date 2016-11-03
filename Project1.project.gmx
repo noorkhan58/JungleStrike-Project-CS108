@@ -36,6 +36,7 @@
     <sprite>sprites\spr_dog_02</sprite>
     <sprite>sprites\spr_tree_01</sprite>
     <sprite>sprites\spr_tree_02</sprite>
+    <sprite>sprites\spr_enemy_bullet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\ground</background>
@@ -68,13 +69,13 @@
       <object>objects\obj_enemy_timer</object>
       <object>objects\obj_enemy_timer2</object>
     </objects>
+    <object>objects\obj_enemy_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_Game_Menu</room>
     <room>rooms\room1</room>
     <room>rooms\room2</room>
     <room>rooms\room3</room>
-    <room>rooms\room6</room>
     <room>rooms\room_game_end</room>
   </rooms>
   <help>
